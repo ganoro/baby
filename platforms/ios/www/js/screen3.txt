@@ -1,0 +1,49 @@
+<div style="width:100%;height:100%"> 
+
+	<div style="position:absolute;top:20px;left:20px;width:96%;height:57%;background-color:rgb(255,255,255);opacity:0.96;filter:alpha(opacity=60);z-index:-1">
+		<img src="img/p1/bw.png" style="width:300px"/>
+	</div>
+		
+	<div id="canvasDiv" style="width:80%;height:80%;z-index:200">
+      <canvas id="canvasSignature" width="1050px" height="690px"></canvas>
+	</div>
+
+	<div id="green-bucket" style="position:absolute; top:635px; left: 140px">
+		<img src="img/5/5-green.png" style="width:70px"/>
+	</div>
+
+	<div id="pink-bucket" style="position:absolute; top:635px; left: 230px">
+		<img src="img/5/5-pink.png" style="width:70px"/>
+	</div>
+
+	<div id="purple-bucket" style="position:absolute; top:635px; left: 320px; -webkit-transform: translate(0px, -12px)">
+		<img src="img/5/5-purple.png" style="width:70px"/>
+	</div>
+
+	<div id="red-bucket" style="position:absolute; top:635px; left: 410px">
+		<img src="img/5/5-red.png" style="width:70px"/>
+	</div>
+
+	<div id="yellow-bucket" style="position:absolute; top:635px; left: 500px">
+		<img src="img/5/5-yellow.png" style="width:70px"/>
+	</div>
+
+	<div id="blue-bucket" style="position:absolute; top:635px; left: 590px">
+		<img src="img/5/5-blue.png" style="width:70px"/>
+	</div>
+
+	<div id="black-bucket" style="position:absolute; top:635px; left: 680px">
+		<img src="img/5/5-black.png" style="width:70px"/>
+	</div>
+
+	<div id="white-bucket" style="position:absolute; top:650px; left: 770px">
+		<img src="img/5/5-white.png" style="width:70px"/>
+	</div>
+
+	<div id="pencil-size" style="position:absolute; top:650px; left: 10px;-webkit-transform: rotate(-150deg);">
+		<img id="pencil-size-img" src="img/4/4-pen-2.png" style="width:110px"/>
+	</div>
+
+</div>
+
+

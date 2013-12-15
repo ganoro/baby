@@ -1,0 +1,9 @@
+<div id="puzzle_parent">
+
+	<div class="puzzle" style="width:80%"></div>	
+
+	<div style="position:absolute; left: -13%;z-index:-99999">
+		<img src="img/3/3-tree-1.png"/>
+	</div>
+
+</div>	
